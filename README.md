@@ -60,7 +60,7 @@ A collection of XR kits for building immersive experiences on PICO devices, comb
 
 ---
 
-## 4. Acknowledgements & Credits
+## 3. Acknowledgements & Credits
 * Join the [Worlds in Action Hack](https://sensaihack.com) and connect with a community of creators and innovators.
 * Check out our [SensAI Knowledge Hub](https://xrbootcamp.notion.site/SensAI-Knowledge-Hub-21f0095e34d880ec9826d9749ae56619) for curated learning use cases and inspiration across AI, XR, and robotics.
 * Thanks to [Nigel Hartman](https://www.linkedin.com/in/nigelhartman/)  for the WebSpatial voice sample and WorldLabs Unity package.
@@ -69,13 +69,13 @@ Powered by [SensAI Hackademy](https://sensaihackademy.com)
 
 ---
 
-## 5. License
+## 4. License
 📜 By downloading and using these kits, you agree to the [License Terms](./LICENSE).
 
 
 ---
 
-## 6. Contact
+## 5. Contact
 ✉️ Have questions, suggestions, or feedback? We’d love to hear from you!
 Reach out to us at hello@sensaihack.com
 
