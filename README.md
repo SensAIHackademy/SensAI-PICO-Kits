@@ -17,7 +17,7 @@ A collection of XR kits for building immersive experiences on PICO devices, comb
 🎯 A WebSpatial template project for building immersive PICO experiences with voice input & multi-view panels.
 <br>
 
-- Two floating transparent panels: microphone panel and transcript history panel
+- Two floating panels: microphone panel and transcript history panel
 - Voice commands via ElevenLabs Speech-to-Text
 - Auto-scrolling transcript history persisted across sessions
 - Runs in desktop browsers and PICO devices
@@ -37,10 +37,8 @@ A collection of XR kits for building immersive experiences on PICO devices, comb
 🎯 A Unity-based World Model Kit for PICO devices, generating and rendering 3D Gaussian Splatting scenes.
 <br>
 
-- Generate 3D scenes from text prompts via the WorldLabs API
+- Generate 3D worlds from text prompts via the WorldLabs API
 - Real-time Gaussian Splat rendering with runtime loading and splat layer support
-- In-game VR/screen-space world browser and creator (WorldBrowserController)
-- Editor importer for browsing and importing worlds as project assets
 - Running on PICO Emulator
 
 <br>
