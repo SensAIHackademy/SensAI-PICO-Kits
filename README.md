@@ -48,11 +48,8 @@ A collection of XR kits for building immersive experiences on PICO devices, comb
 :warning: Setup Notes
 * **Unity Version:**  6000.2.10f1 recommended
 * **Render Pipeline:**  URP required
-* **Graphics API:** D3D11 is NOT supported - use D3D12/Vulkan (Windows), Metal (Mac), or Vulkan (Android/Quest)
+* **Graphics API:** Vulkan (Windows/Mac/Android), D3D11 NOT supported
 * **API Key:**  Obtain from WorldLabs and place in a .env file at the project root
-* **Render Graph:**  Enable "Compatibility Mode (Render Graph disabled)" in Project Settings > Graphics
-* **XR:**  Set OpenXR Render Mode to Multi-pass for VR builds
-* **Meta Quest:**  Adding a Camera Rig from "Meta Building Blocks" may force D3D11 - switch back to Vulkan manually
 
 #### GitHub: 👉 [WorldLabs Unity Kit](https://github.com/nigelhartman/worldlabs_unity) 
 
