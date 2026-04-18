@@ -2,6 +2,14 @@
 
 A collection of XR kits for building immersive experiences on PICO devices, combining **voice interaction, multi-view panels, agentic orchestration, and world models**.
 
+## 🎥 Tutorials & Demos
+
+[Watch the playlist](https://www.youtube.com/playlist?list=PLRQI9ZSqDkKdqhIYyEMu3f1g3SyzpfZn4)
+▶️ Explore step-by-step tutorials and demos
+
+---
+
+
 ## 📝 Table of Contents
 
 1. [WebSpatial Voice & Multi-View Kit](#1-webSpatial-voice-multi-view-kit) 
