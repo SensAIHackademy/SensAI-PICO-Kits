@@ -12,16 +12,17 @@ A collection of XR kits for building immersive experiences on PICO devices, comb
 
 ## 📝 Table of Contents
 
-1. [WebSpatial Voice & Multi-View Kit](#1-webSpatial-voice-multi-view-kit) 
-2. [WorldLabs Unity Kit for PICO](#2-worldLabs-unity-kit-forpico) 
-3. [Acknowledgements & Credits](#3-acknowledgements--credits)  
-4. [License](#4-license)
-5. [Contact](#5-contact)
+1. [WebSpatial Voice Command Kit](#1-webSpatial-voice-command-kit) 
+2. [WorldLabs Unity Kit for PICO](#2-worldLabs-unity-kit-forpico)
+3. [WebSpatial OpenClaw Command Center](#3-webSpatial-openClaw-command-center) 
+4. [Acknowledgements & Credits](#4-acknowledgements--credits)  
+5. [License](#5-license)
+6. [Contact](#6-contact)
 
 
 ## Overview
 
-## 1. WebSpatial Voice & Multi-View Kit
+## 1. WebSpatial Voice Command Kit
 🎯 A WebSpatial template project for building immersive PICO experiences with voice input & multi-view panels.
 <br>
 
@@ -63,7 +64,32 @@ A collection of XR kits for building immersive experiences on PICO devices, comb
 
 ---
 
-## 3. Acknowledgements & Credits
+## 3. WebSpatial OpenClaw Command Center   
+A WebSpatial-based starter kit for building **spatial AI agent interfaces** connected to an OpenClaw gateway, with multi-agent panels and voice interaction.
+
+<br>
+
+- Agents panel listing all available agents with toggleable spatial windows  
+- Per-agent chat panels with streaming responses and full conversation history  
+- Voice input via ElevenLabs Speech-to-Text (tap-to-record)  
+- Device identity authentication using Ed25519 keys (persistent, no repeated pairing)  
+- Runs in PICO Emulator with multiple simultaneous agent sessions  
+
+<br>
+
+:warning: **Setup Notes**  
+* **Prerequisites**: Node.js ≥ 22, Docker (for OpenClaw), ElevenLabs API key (optional for voice)  
+* **Gateway**: Requires a running OpenClaw instance (local WebSocket connection)  
+* **PICO Emulator**: Required for spatial UI testing  
+* **ADB Reverse**: Needed to access localhost securely in emulator  
+
+#### GitHub: 👉 https://github.com/nigelhartman/webspatial_openclaw_command_center  
+
+<img src="https://github.com/user-attachments/assets/4f752264-d80f-4acb-af9e-e531cbd7220a" alt="OpenClawCommandCenter" width="540px">
+
+---
+
+## 4. Acknowledgements & Credits
 * Check out our [Master SensAI Kits](https://github.com/SensAIHackademy/SensAIKits) for a full collection of context-aware AI tools for Unity and Meta XR.
 * Explore [SensAI World Model Kits](https://github.com/SensAIHackademy/SensAIWorldModelKits) for a collection of world model kits for WebXR, Unity, and Unreal Engine
 * Check out the [Worlds in Action Hack](https://sensaihack.com) and connect with a community of creators and innovators.
@@ -74,13 +100,13 @@ Powered by [SensAI Hackademy](https://sensaihackademy.com)
 
 ---
 
-## 4. License
+## 5. License
 📜 By downloading and using these kits, you agree to the [License Terms](./LICENSE).
 
 
 ---
 
-## 5. Contact
+## 6. Contact
 ✉️ Have questions, suggestions, or feedback? We’d love to hear from you!
 Reach out to us at hello@sensaihack.com
 
