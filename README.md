@@ -36,7 +36,7 @@ A collection of XR kits for building immersive experiences on PICO devices, comb
 :warning: Setup Notes
 * **Prerequisites**: Node.js ≥ 18, ElevenLabs account (free tier works)
 
-#### GitHub: 👉 [WebSpatial Voice & Multi-View Kit](https://github.com/nigelhartman/webspatial_voice_sample) 
+#### GitHub: 👉 [WebSpatial Voice Command Kit](https://github.com/nigelhartman/webspatial_voice_sample) 
 
 <img src="https://github.com/user-attachments/assets/4f752264-d80f-4acb-af9e-e531cbd7220a" alt="WebSpatialVoice" width="540px">
 
@@ -85,7 +85,7 @@ A WebSpatial-based starter kit for building **spatial AI agent interfaces** conn
 
 #### GitHub: 👉 https://github.com/nigelhartman/webspatial_openclaw_command_center  
 
-<img src="https://github.com/user-attachments/assets/4f752264-d80f-4acb-af9e-e531cbd7220a" alt="OpenClawCommandCenter" width="540px">
+<img src="https://github.com/user-attachments/assets/9c1bd66f-41cb-4d5d-a4d1-f1b646b7d222" alt="OpenClawCommandCenter" width="540px">
 
 ---
 
