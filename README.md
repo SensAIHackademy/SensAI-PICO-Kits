@@ -6,6 +6,8 @@ A collection of XR kits for building immersive experiences on PICO devices, comb
 
 [Watch the playlist](https://www.youtube.com/playlist?list=PLRQI9ZSqDkKdqhIYyEMu3f1g3SyzpfZn4)
 ▶️ Explore step-by-step tutorials and demos
+<img width="731" height="341" alt="image" src="https://github.com/user-attachments/assets/c0ca8110-adff-487d-a3e1-817cf24a4a5d" />
+
 
 ---
 
