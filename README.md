@@ -71,8 +71,7 @@ A WebSpatial-based starter kit for building **spatial AI agent interfaces** conn
 
 - Agents panel listing all available agents with toggleable spatial windows  
 - Per-agent chat panels with streaming responses and full conversation history  
-- Voice input via ElevenLabs Speech-to-Text (tap-to-record)  
-- Device identity authentication using Ed25519 keys (persistent, no repeated pairing)  
+- Voice input via ElevenLabs Speech-to-Text
 - Runs in PICO Emulator with multiple simultaneous agent sessions  
 
 <br>
