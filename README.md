@@ -45,7 +45,7 @@ Agents panel lists all available agents with toggleable spatial windows. Per-age
 - **ADB Reverse**: Needed to access localhost securely in emulator
   
 
-#### GitHub: 👉 https://github.com/nigelhartman/webspatial_openclaw_command_center  
+#### GitHub: 👉 [WebSpatial OpenClaw Command Center](https://github.com/nigelhartman/webspatial_openclaw_command_center)  
 
 <img src="https://github.com/user-attachments/assets/9c1bd66f-41cb-4d5d-a4d1-f1b646b7d222" alt="OpenClawCommandCenter" width="540px">
 
